@@ -1,0 +1,50 @@
+h1
+{
+    text-align:center;
+}
+
+h2
+{
+    text-align:center;
+}
+
+p
+{
+    text-align:center;
+}
+
+#menu
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #b5f1e7;
+    overflow: hidden;
+}
+li{
+    float : left;
+}
+
+li a {
+    display: block;
+    color: rgb(8, 8, 8);
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align :center;
+}
+ 
+/* mousse hover */
+li a:hover {
+    background-color: rgb(30, 92, 84);
+    color: white;
+}
+
+
+#logo{
+width : 50%;
+height : 15%;
+
+}
+div{
+    text-align: center;
+}
