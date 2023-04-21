@@ -1,13 +1,82 @@
+/*header*/
+#menu
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #b5f1e7;
+    overflow: hidden;
+}
+
+#header li{
+    float : left;
+}
+
+#header li a {
+    display: block;
+    color: rgb(8, 8, 8);
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align :center;
+    font-size: 10px;
+}
+ 
+#header li a:hover {
+    background-color: rgb(30, 92, 84);
+    color: white;
+}
+
+#logo{
+    text-align: center;
+}
+
+#logoImage
+{
+    width : 50%;
+    height : 20%;
+}
+
 h1
 {
     text-align:center;
-    font-size: 2rem;
-    color: aqua;
+    font-size: 30px;
 }
 
 p
 {
+    font-size: 20px;
+}
+
+li
+{
+    font-size: 20px;
+}
+
+.blocs
+{
+    width : 100%;
+    
+}
+
+.lien
+{
+    text-align: center;
+}
+.lien a
+{
+    font-size: 20px;
+}
+
+/*
+h1
+{
     text-align:center;
+    font-size: 2rem;
+    color: rgb(49, 60, 60);
+}
+
+p
+{
     font-size: 1rem;
 }
 
@@ -37,7 +106,6 @@ li a {
     text-align :center;
 }
  
-/* mousse hover */
 li a:hover {
     background-color: rgb(30, 92, 84);
     color: white;
@@ -52,3 +120,4 @@ height : 15%;
 div{
     text-align: center;
 }
+*/
