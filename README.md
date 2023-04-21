@@ -1,6 +1,5 @@
 <html>
   <head>
-    <!-- <link rel="stylesheet" type="text/css" href="screen.css"> -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen and (min-width : 650px) " href="screen.css"> 
