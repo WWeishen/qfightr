@@ -1,10 +1,3 @@
-# Représentation du jeu QfrightR
-Nous avons créer un nouveau jeu de société QfrightR. Ce site web vous permet de savoir la conpcetion de notre jeu, comprendre les règles et retrouver les cartes necessaires pour jouer.
-
-## Vous pouvez visualieser ce site en ligne à l'adresse suivante
-[qfrightr]https://wweishen.github.io/qfightr/
-
-'''html
 <!DOCTYPE html>
 <html>
   <head>
