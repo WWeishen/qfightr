@@ -1,7 +1,5 @@
-# QfightR
-
 Vous pouvez visualiser ce site en ligne à l'adresse suivante: https://wweishen.github.io/qfightr/
-
+'''html
 <html>
   <head>
     <!-- <link rel="stylesheet" type="text/css" href="screen.css"> -->
@@ -43,7 +41,7 @@ Vous pouvez visualiser ce site en ligne à l'adresse suivante: https://wweishen.
         Pas besoin de se balader avec une boîte de jeu de société par ci par là. Le but est que toute personne ayant une connexion 
         internet, puisse télécharger l’application et imprimer les cartes gratuitement n’importe où.
       </p>
-    </div><br>
+    </div>
     
     <div class="blocs">  
       <h1 class="titre" id= "regles"> Règles du jeu</h1>
@@ -75,12 +73,12 @@ Vous pouvez visualiser ce site en ligne à l'adresse suivante: https://wweishen.
         <br><br>
         Chaque joueur a 3 vies et chacune d’entre elles est composée de 5 PS (Points de Santé). Quand un joueur perd ses 3 vies alors il est éliminé. Le dernier joueur vivant est le gagnant.               
       </p>
-    </div><br>
+    </div>
     
     <div class="blocs">    
       <h1 class="titre" id= "cartes"> Cartes du jeu</h1>  
       <div class="lien"><a href="carteExemple.png">Vous pouvez télécharger les cartes en cliquant ici</a></div>
-    </div><br>
+    </div>
 
     <div class="blocs">    
       <h1 class="titre" id= "contact"> CONTACT</h1>
