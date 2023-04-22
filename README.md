@@ -1,3 +1,6 @@
+#vous pouvez consulter le site par:
+https://wweishen.github.io/qfightr/
+
 <html>
   <head>
     <meta charset="UTF-8">
