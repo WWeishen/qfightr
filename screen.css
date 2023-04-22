@@ -60,7 +60,8 @@ p
     border-color: rgb(170, 114, 223);
     border-width: thick;
     width : 80%;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 2%;
 }
 

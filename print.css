@@ -62,8 +62,9 @@ p
     border-style: groove;
     border-color: rgb(170, 114, 223);
     border-width: thick;
-    width : 100%;
-    margin: auto;
+    width : 100%;    
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 2%;
 }
 
