@@ -1,4 +1,4 @@
-Vous pouvez visualiser ce site en ligne à l'adresse suivante: https://wweishen.github.io/qfightr/
+Ce site en ligne à l'adresse: https://wweishen.github.io/qfightr/
 
 <html>
   <head>
@@ -8,7 +8,6 @@ Vous pouvez visualiser ce site en ligne à l'adresse suivante: https://wweishen.
     <link rel="stylesheet" type="text/css" media="screen and (min-width : 650px) " href="screen.css"> 
     <link rel="stylesheet" type="text/css" media="screen and (max-width : 650px) " href="print.css">
 
-    <title>Présentation du jeu</title>
   </head>
   <body>
     <div id="header">
@@ -31,7 +30,7 @@ Vous pouvez visualiser ce site en ligne à l'adresse suivante: https://wweishen.
         en s’adaptant aux technologies de nos jours. 
         <br><br>
         Pour cela nous avons conceptualisé un jeu de société qui conserve une structure de jeu traditionnelle :      
-        une pile de défausse/pioche (même tas) et un nombre défini de cartes dans les mains des joueurs
+        une pile de défausse/pioche (même tas) et un nombre défini de cartes dans les mains des joueurs.
         <br><br>
         L’étiquette de “Pionnier” que notre jeu porte se doit au plateau de jeu. Étant donné qu’un dispositif électronique 
         (smartphone ou tablette) remplira cette fonction, la totalité des cartes comporte un QR code qui permettra d'interagir avec le 
@@ -53,10 +52,10 @@ Vous pouvez visualiser ce site en ligne à l'adresse suivante: https://wweishen.
             désigne les tentes (ces dernières sont situées à côté du dispositif) Un premier visuel sur le plateau accompagné de 6 cartes tentes.
           </li>
           <li class="normal">
-            les attaques et les défenses (ces cartes sont dans les mains des joueurs et dans la pile de défausse)
+            les attaques et les défenses (ces cartes sont dans les mains des joueurs et dans la pile de défausse).
           </li>
           <li class="normal">
-            les avatars. Il y  aura un maximum de huit cartes et chacune représentera un avatar unique que les joueurs choisiront pour jouer (ces cartes sont dans les mains des joueurs)
+            les avatars. Il y  aura un maximum de huit cartes et chacune représentera un avatar unique que les joueurs choisiront pour jouer (ces cartes sont dans les mains des joueurs).
           </li>
         </ol>
       </p>
