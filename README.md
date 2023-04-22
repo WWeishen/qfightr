@@ -1,5 +1,5 @@
 Vous pouvez visualiser ce site en ligne à l'adresse suivante: https://wweishen.github.io/qfightr/
-'''html
+
 <html>
   <head>
     <!-- <link rel="stylesheet" type="text/css" href="screen.css"> -->
