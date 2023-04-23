@@ -2,11 +2,12 @@
 #menu
 {
     list-style-type: none;
-    margin: auto;
+    margin: 0;
     padding: 0;
     background-color: #b5f1e7;
     overflow: hidden;
     position: fixed;
+    width: 100%;
 }
 
 #header li{
@@ -19,7 +20,8 @@
     padding: 14px 16px;
     text-decoration: none;
     text-align :center;
-    font-size: 10px;
+    font-size: 14px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
  
 #header li a:hover {
@@ -34,8 +36,8 @@
 
 #logoImage
 {
-    width : 200px;
-    height : 10%;
+    width : 400px;
+    height : 30%;
 }
 
 h1
@@ -44,17 +46,20 @@ h1
     font-size: 30px;
     background-color: rgb(145, 148, 198);
     font-style: oblique;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 p
 {
     font-size: 15px;
     font-style: Time;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .normal
 {
     font-size: 15px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .blocs
@@ -70,14 +75,16 @@ p
 
 #contact,#cartes
 {
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(145, 148, 198);
 }
 
 .lien
 {
     text-align: center;
 }
+
 .lien a
 {
     font-size: 15px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
