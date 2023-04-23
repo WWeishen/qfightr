@@ -21,7 +21,7 @@
     </div>
     
     <div id="logo">
-      <img alt="erreur" src = "Logo.png" id="logoImage">
+      <img alt="erreur" src = "logo.png" id="logoImage">
     </div>
 
     <div class="blocs">  
