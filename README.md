@@ -1,4 +1,3 @@
-
 <html>
   <head>
     
@@ -25,7 +24,7 @@
     </div>
 
     <div class="blocs">  
-      <h1 class="titre"> Description du jeu</h1>
+      <h1 class="titre" id="description"> Description du jeu</h1>
       <p>
         QfightR, le jeu de société sur smartphone ! 
         <br><br>
