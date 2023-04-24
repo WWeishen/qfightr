@@ -5,7 +5,6 @@
     /*padding: 0;*/
     background-color: #b5f1e7;
     overflow: hidden;
-    position: fixed;
     width: 100%;
     margin: auto ;
 }
@@ -65,7 +64,7 @@ p
     border-style: groove;
     border-color: rgb(170, 114, 223);
     border-width: thick;
-    width : 80%;
+    width : 100%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 2%;
