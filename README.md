@@ -75,11 +75,11 @@
     
     <div class="blocs">    
       <h1 class="titre" id= "cartes"> Cartes du jeu</h1>  
-      <div class="lien"><a href="carteExemple.png">Vous pouvez télécharger les cartes en cliquant ici</a></div>
+      <div class="lien"><a href="CARDS.pdf">Vous pouvez télécharger les cartes en cliquant ici</a></div>
     </div>
 
     <div class="blocs"> 
-      <h1 class="titre"> Lien pour télécharger le jeu</h1>
+      <h1 class="titre" id= "telechargement"> Lien pour télécharger le jeu</h1>
       <div class="lien"><a href="lienExemple.png">Vous pouvez télécharger le jeu en cliquant ici</a></div>
     </div>
     <div class="blocs">    
