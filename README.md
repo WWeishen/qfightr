@@ -1,3 +1,4 @@
+
 <html>
   <head>
     
@@ -29,7 +30,7 @@
         QfightR, le jeu de société sur smartphone ! 
         <br><br>
         Vous voulez jouer à un jeu de société en famille ou entre amis mais vous n'en avez pas sous la main ? 
-        QfightR est la solution : Un jeu de combat que vous pouvez télécharger avec des cartes pour jouer que vous pouvez imprimer.
+        QfightR est la solution : Un jeu de combat que vous pouvez télécharger avec des cartes que vous pouvez imprimer pour jouer.
         <br><br>
         Nous avons conceptualisé un jeu de société qui conserve une structure de jeu traditionnelle :      
         une pile de défausse/pioche (même tas) et un nombre défini de cartes dans les mains des joueurs.
@@ -42,25 +43,25 @@
     
     <div class="blocs">  
       <h1 class="titre" id= "regles"> Règles du jeu</h1>
-      <p>La partie se déroule sur un champ, elle comprend de 2 à 8 joueurs et le nombre de tentes dépendra du nombre des joueurs : il y aura 2 tentes vides en plus.
+      <p>La partie se déroule sur un champ, elle comprend de 2 à 8 joueurs et le nombre de tentes dépendra du nombre de joueurs : il y aura 2 tentes vides en plus.
         <br><br>
         Il existe trois catégories de cartes:
         <ol>
           <li class="normal">
-            La première désigne les tentes (vous pourrez situer ces dernières à côté du dispositif) Un premier visuel sur le plateau accompagné de 6 cartes tentes.
+            La première désigne les tentes (vous devrez situer ces dernières à côté du dispositif) 
           </li>
           <li class="normal">
             La seconde désigne les attaques et les défenses (ces cartes doivent être dans les mains des joueurs et dans la pile de défausse).
           </li>
           <li class="normal">
-            Et la troisième désigne les avatars. Il y aura un maximum de huit cartes et chacune représentera un avatar unique que les joueurs choisiront pour jouer (ces cartes seront également dans les mains des joueurs).
+            Et la troisième désigne les joueurs (une carte par joueur). Il y aura un maximum de huit cartes.
           </li>
         </ol>
       </p>
       <p>
-        Chaque carte physique aura un QR code unique. Les joueurs doivent pointer le QR code de la carte vers la caméra frontale du média électronique. Le système enregistrera automatiquement la valeur correspondante et affichera l'animation adéquate.
+        Chaque carte physique aura un QR code unique. Les joueurs devront pointer le QR code de la carte vers la caméra frontale du média électronique. Le système enregistrera automatiquement la valeur correspondante et affichera l'animation adéquate.
         <br><br>
-        Après avoir sélectionné un personnage, le joueur sera positionné aléatoirement dans l'une des tentes. Les joueurs, à tour de rôle, utiliseront une et une seule des cartes de leur main (attaque ou défense) afin d’effectuer les actions correspondantes sur la tente désignée. Le joueur qui se trouve dans la tente choisie, reçoit l'action correspondante. Lorsqu'il ne reste qu'une seule personne sur le plateau, le gagnant est généré et le jeu se termine. 
+        Après avoir fini les configurations de début de partie, les joueurs seront positionnés aléatoirement dans des tentes. Les joueurs, à tour de rôle, utiliseront une et une seule des cartes de leur main (attaque ou défense) afin d’effectuer les actions correspondantes sur la tente désignée. Le joueur qui se trouve dans la tente choisie, reçoit l'action correspondante. Lorsqu'il ne reste qu'une seule personne sur le plateau, le gagnant est généré et le jeu se termine. 
         <br><br>
         Les deux tentes vides servent à déstabiliser le joueur au moment de choisir la tente à attaquer. Si celle-ci est vide, il aura perdu de l'énérgie pour rien 😈 .
         <br><br>
@@ -83,7 +84,7 @@
     </div>
     <div class="blocs">    
       <h1 class="titre" id= "contact"> Contactez-nous!</h1>
-      <div class="lien"><a href="mailto:qfightr@exemple.com">Vous pouvez nous contacter en cliquant ici</a></div>
+      <div class="lien"><a href="mailto:neila.mansouri@etu.univ-cotedazur.fr , guillaume.wauquier@etu.univ-cotedazur.fr , zied.fakhfakh@etu.univ-cotedazur.fr , weishen.zou@etu.univ-cotedazur.fr , clement.hard@etu.univ-cotedazur.fr ">Vous pouvez nous contacter en cliquant ici</a></div>
     </div>
   </body>
 </html>
