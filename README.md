@@ -75,7 +75,7 @@
     
     <div class="blocs">    
       <h1 class="titre" id= "cartes"> Cartes du jeu</h1>  
-      <div class="lien"><a href="CARDS.pdf">Vous pouvez télécharger les cartes en cliquant ici</a></div>
+      <div class="lien"><a href="Cartes - QfightR.pdf">Vous pouvez télécharger les cartes en cliquant ici</a></div>
     </div>
 
     <div class="blocs"> 
