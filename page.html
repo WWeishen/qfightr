@@ -80,7 +80,7 @@
 
     <div class="blocs"> 
       <h1 class="titre" id= "telechargement"> Lien pour télécharger le jeu</h1>
-      <div class="lien"><a href="https://unice-my.sharepoint.com/:u:/g/personal/zied_fakhfakh_etu_unice_fr/EWvR-c_4kKpEpXzTX9UqzFsBTcYY_50JVZXgz8eKtMNU7w?e=ZfcPoh">Vous pouvez télécharger le jeu en cliquant ici</a></div>
+      <div class="lien"><a href="https://unice-my.sharepoint.com/:u:/g/personal/zied_fakhfakh_etu_unice_fr/Ecp7kHiOrzZPoKknef4YQM8BmywmAQbN9FN-B2KfWUmgGQ?e=obq8Dj">Vous pouvez télécharger le jeu en cliquant ici</a></div>
     </div>
     <div class="blocs">    
       <h1 class="titre" id= "contact"> Contactez-nous!</h1>
